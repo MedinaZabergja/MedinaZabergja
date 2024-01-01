@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MedinaZabergja
+- 👋 Hi, I’m Medina
 - 👀 I’m interested in art, deisgn, and making appealing and useful projects
 - 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate on fun projects
